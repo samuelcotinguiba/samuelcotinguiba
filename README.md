@@ -2,7 +2,7 @@
   
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=300&section=header&text=Samuel%20Cotinguiba&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Programador%20Full%20Stack&descAlignY=51&descAlign=50)
   
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%BE;Programador+Python+%26+C%2B%2B+%F0%9F%90%8D;Desenvolvedor+Full-Stack+%F0%9F%8E%AE;Always+Learning%2C+Always+Coding+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%BE;Programador+Python+%26+C%2B%2B+%F0%9F%90%8D;Desenvolvedor+Full-Stack+%F0%9F%8E%AE; Always+Learning%2C+Always+Coding+%F0%9F%9A%80" alt="Typing SVG" />
   
 </div>
 
