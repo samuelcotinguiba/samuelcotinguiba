@@ -16,7 +16,7 @@ class SamuelCotinguiba:
         self.name = "Samuel Cotinguiba"
         self.role = "Full Stack Developer"
         self.location = "Vitória da Conquista, BA"
-        self.current_level = "Sempre evoluindo "
+        self.current_level = "Sempre evoluindo 🎯"
         
         self.skills = {
             "backend": ["Python", "C++"],
@@ -89,7 +89,7 @@ dev.say_hi()
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcotinguiba&repo=livraria-api&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)](https://github.com/samuelcotinguiba/livraria-api)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcotinguiba&repo=Algoritmo-de-Dijkstra&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)](https://github.com/samuelcotinguiba/Algoritmo-de-Dijkstra)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcotinguiba&repo=huffman&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)](https://github.com/samuelcotinguiba/huffman)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcotinguiba&repo=problema-mochila-alg.guloso&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)](https://github.com/samuelcotinguiba/problema-mochila-alg.guloso)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcotinguiba&repo=algoritmo-genetico&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)](https://github.com/samuelcotinguiba/algoritmo-genetico)
 
 </div>
