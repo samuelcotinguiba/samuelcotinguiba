@@ -2,7 +2,7 @@
   
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=300&section=header&text=Samuel%20Cotinguiba&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Programador%20Full%20Stack&descAlignY=51&descAlign=50)
   
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%BE;Programador+Python+%26+C%2B%2B+%F0%9F%90%8D;Desenvolvedor+Front-End+%F0%9F%8E%AE;Always+Learning%2C+Always+Coding+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%BE;Programador+Python+%26+C%2B%2B+%F0%9F%90%8D;Desenvolvedor+Full-Stack+%F0%9F%8E%AE;Always+Learning%2C+Always+Coding+%F0%9F%9A%80" alt="Typing SVG" />
   
 </div>
 
@@ -62,7 +62,7 @@ dev.say_hi()
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=samuelcotinguiba&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="Samuel's GitHub Stats" />
   
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelcotinguiba&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=A855F7&currStreakNum=A855F7&sideNums=A855F7&dates=C9D1D9" alt="Samuel's Streak Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=samuelcotinguiba&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=A855F7&currStreakNum=A855F7&sideNums=A855F7&dates=C9D1D9&stroke=A855F7" alt="Samuel's Streak Stats" />
   
 </div>
 
