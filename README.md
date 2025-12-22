@@ -62,7 +62,7 @@ dev.say_hi()
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=samuelcotinguiba&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="Samuel's GitHub Stats" />
   
-  <img width="49%" src="https://streak-stats.demolab.com?user=samuelcotinguiba&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=A855F7&currStreakNum=A855F7&sideNums=A855F7&dates=C9D1D9&stroke=A855F7" alt="Samuel's Streak Stats" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=samuelcotinguiba&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=A855F7&area=true&area_color=A855F7" alt="Samuel's Activity Graph" />
   
 </div>
 
