@@ -110,8 +110,8 @@ dev.say_hi()
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=2D1B69)](https://www.linkedin.com/in/seu-perfil/)
-  [![Email](https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=2D1B69)](mailto:seu.email@example.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=2D1B69)](https://www.linkedin.com/in/samuel-cotinguiba-959491352/)
+  [![Email](https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=2D1B69)](mailto:samuelcotinguiba@gmail.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=google-chrome&logoColor=4285F4&labelColor=2D1B69)](https://seu-portfolio.com)
   
 </div>
