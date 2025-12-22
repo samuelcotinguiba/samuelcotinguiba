@@ -16,7 +16,7 @@ class SamuelCotinguiba:
         self.name = "Samuel Cotinguiba"
         self.role = "Full Stack Developer"
         self.location = "Vitória da Conquista, BA"
-        self.current_level = "Sempre evoluindo 🎯"
+        self.current_level = "Sempre evoluindo "
         
         self.skills = {
             "backend": ["Python", "C++"],
@@ -62,7 +62,7 @@ dev.say_hi()
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=samuelcotinguiba&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="Samuel's GitHub Stats" />
   
-  <img width="49%" src="https://streak-stats.demolab.com/?user=samuelcotinguiba&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=A855F7&currStreakNum=A855F7&sideNums=A855F7&dates=C9D1D9" alt="Samuel's Streak Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelcotinguiba&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=A855F7&currStreakNum=A855F7&sideNums=A855F7&dates=C9D1D9" alt="Samuel's Streak Stats" />
   
 </div>
 
@@ -130,7 +130,7 @@ dev.say_hi()
 
 <div align="center">
   
-  ### 💜 "Code is like humor. When you have to explain it, it's bad." – Cory House
+  ### "Code is like humor. When you have to explain it, it's bad." – Cory House
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=100&section=footer)
   
