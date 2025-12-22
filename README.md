@@ -16,7 +16,7 @@ class SamuelCotinguiba:
         self.name = "Samuel Cotinguiba"
         self.role = "Full Stack Developer"
         self.location = "Vitória da Conquista, BA"
-        self.current_level = "Sempre evoluindo 🎯"
+        self.current_level = "Sempre evoluindo "
         
         self.skills = {
             "backend": ["Python", "C++"],
