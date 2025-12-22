@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=300&section=header&text=Samuel%20Cotinguiba&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Programador%20Full%20Stack%20|%20Game%20Dev%20Enthusiast&descAlignY=51&descAlign=50)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=300&section=header&text=Samuel%20Cotinguiba&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Programador%20Full%20Stack&descAlignY=51&descAlign=50)
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%BE;Programador+Python+%26+C%2B%2B+%F0%9F%90%8D;Desenvolvedor+Front-End+%F0%9F%8E%AE;Always+Learning%2C+Always+Coding+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%BE;Programador+Python+%26+C%2B%2B+%F0%9F%90%8D;Desenvolvedor+Front-End+%F0%9F%8E%AE;Always+Learning%2C+Always+Coding+%F0%9F%9A%80" alt="Typing SVG" />
   
 </div>
 
@@ -62,7 +62,7 @@ dev.say_hi()
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=samuelcotinguiba&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="Samuel's GitHub Stats" />
   
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelcotinguiba&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="Samuel's Streak Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=samuelcotinguiba&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=A855F7&currStreakNum=A855F7&sideNums=A855F7&dates=C9D1D9" alt="Samuel's Streak Stats" />
   
 </div>
 
@@ -89,19 +89,9 @@ dev.say_hi()
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcotinguiba&repo=livraria-api&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)](https://github.com/samuelcotinguiba/livraria-api)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcotinguiba&repo=Algoritmo-de-Dijkstra&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)](https://github.com/samuelcotinguiba/Algoritmo-de-Dijkstra)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcotinguiba&repo=RinderSite&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)](https://github.com/samuelcotinguiba/RinderSite)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcotinguiba&repo=site-curriculo&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)](https://github.com/samuelcotinguiba/site-curriculo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcotinguiba&repo=huffman&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)](https://github.com/samuelcotinguiba/huffman)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcotinguiba&repo=algoritmo-genetico&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)](https://github.com/samuelcotinguiba/algoritmo-genetico)
 
-</div>
-
-<br>
-
-## 🎮 Snake Game - Contributions
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/samuelcotinguiba/samuelcotinguiba/blob/output/github-contribution-grid-snake-dark.svg)
-  
 </div>
 
 <br>
@@ -128,11 +118,11 @@ dev.say_hi()
 
 <br>
 
-## 📈 Visitor Count
+## 📈 Estatísticas do Perfil
 
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/samuelcotinguiba/count.svg?color=A855F7&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=samuelcotinguiba&color=A855F7&style=for-the-badge&label=VISUALIZAÇÕES)
   
 </div>
 
