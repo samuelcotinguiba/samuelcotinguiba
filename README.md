@@ -62,7 +62,7 @@ dev.say_hi()
   
   <img width="49%" src="https://github-readme-stats-7z2963obn-samuel-cotinguibas-projects.vercel.app/api?username=samuelcotinguiba&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="Samuel's GitHub Stats" />
   
-  <img width="49%" src="https://github-readme-stats-7z2963obn-samuel-cotinguibas-projects.vercel.app/graph?username=samuelcotinguiba&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=A855F7&area=true&area_color=A855F7" alt="Samuel's Activity Graph" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=samuelcotinguiba&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=A855F7&area=true&area_color=A855F7" alt="Samuel's Activity Graph" />
   
 </div>
 
