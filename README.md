@@ -67,7 +67,7 @@ dev.say_hi()
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcotinguiba&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Most Used Languages" />
+ <img width="60%" src="https://github-readme-stats-hazel-nine-84.vercel.app/api/top-langs/?username=samuelcotinguiba&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Most Used Languages" />
 </div>
 
 <br>
