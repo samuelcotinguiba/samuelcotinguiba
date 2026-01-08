@@ -46,7 +46,7 @@ dev.say_hi()
 
 ### 🎨 Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-8B5CF6?style=for-the-badge&logo=html5&logoColor=white&labelColor=2D1B69)
-![CSS3](https://img.shields.io/badge/CSS3-A855F7?style=for-the-badge&logo=css3&logoColor=white&labelColor=2D1B69)
+![CSS3](https://img.shields.io/badge/CSS3-A855F7?style=for-the-badge&logo=css3-alt&logoColor=white&labelColor=2D1B69)
 
 ### 🔧 Ferramentas & Outros
 ![Git](https://img.shields.io/badge/Git-9333EA?style=for-the-badge&logo=git&logoColor=white&labelColor=2D1B69)
