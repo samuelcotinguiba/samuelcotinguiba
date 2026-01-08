@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=300&section=header&text=Samuel%20Cotinguiba&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Programador%20Full%20Stack&descAlignY=51&descAlign=50)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=220&section=header&text=Samuel%20Cotinguiba&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Programador%20Full%20Stack&descAlignY=51&descAlign=50)
   
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%BE;Programador+Python+%26+C%2B%2B+%F0%9F%90%8D;Desenvolvedor+Full-Stack+%F0%9F%8E%AE;+Always+Learning%2C+Always+Coding+%F0%9F%9A%80" alt="Typing SVG" />
   
@@ -19,10 +19,10 @@ class SamuelCotinguiba:
         self.current_level = "Sempre evoluindo "
         
         self.skills = {
-            "backend": ["Python", "C++"],
+            "backend": ["Python", "C++", "Solidity"],
             "frontend": ["HTML", "CSS", "JavaScript"],
-            "learning": ["Algoritmos", "Estruturas de Dados"],
-            "interests": ["Games", "Web Development", "Problem Solving"]
+            "learning": ["Engenharia da Computação (em progresso)"],
+            "interests": ["Web Development", "Blockchain", "Smart Contracts", "NFTs"]
         }
     
     def say_hi(self):
@@ -42,6 +42,7 @@ dev.say_hi()
 ![Python](https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=2D1B69)
 ![C++](https://img.shields.io/badge/C++-A855F7?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=2D1B69)
 ![JavaScript](https://img.shields.io/badge/JavaScript-9333EA?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=2D1B69)
+![Solidity](https://img.shields.io/badge/Solidity-8B5CF6?style=for-the-badge&logo=solidity&logoColor=363636&labelColor=2D1B69)
 
 ### 🎨 Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-8B5CF6?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=2D1B69)
@@ -51,6 +52,16 @@ dev.say_hi()
 ![Git](https://img.shields.io/badge/Git-9333EA?style=for-the-badge&logo=git&logoColor=F05032&labelColor=2D1B69)
 ![VS Code](https://img.shields.io/badge/VS_Code-8B5CF6?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=2D1B69)
 ![GitHub](https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=2D1B69)
+
+### 🧠 Blockchain & Smart Contracts
+![Solidity](https://img.shields.io/badge/Solidity-8B5CF6?style=for-the-badge&logo=solidity&logoColor=363636&labelColor=2D1B69)
+![Hardhat](https://img.shields.io/badge/Hardhat-A855F7?style=for-the-badge&logo=hardhat&logoColor=white&labelColor=2D1B69)
+![Ganache](https://img.shields.io/badge/Ganache-9333EA?style=for-the-badge&labelColor=2D1B69)
+![Web3.js](https://img.shields.io/badge/Web3.js-8B5CF6?style=for-the-badge&logo=web3.js&logoColor=F16822&labelColor=2D1B69)
+![Node.js](https://img.shields.io/badge/Node.js-A855F7?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=2D1B69)
+![OpenSea](https://img.shields.io/badge/OpenSea-9333EA?style=for-the-badge&logo=opensea&logoColor=2081E2&labelColor=2D1B69)
+![Uptick NFT](https://img.shields.io/badge/Uptick_NFT-8B5CF6?style=for-the-badge&labelColor=2D1B69)
+![NFT](https://img.shields.io/badge/NFT-A855F7?style=for-the-badge&labelColor=2D1B69)
 
 </div>
 
@@ -86,11 +97,11 @@ dev.say_hi()
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcotinguiba&repo=livraria-api&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)](https://github.com/samuelcotinguiba/livraria-api)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcotinguiba&repo=Algoritmo-de-Dijkstra&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)](https://github.com/samuelcotinguiba/Algoritmo-de-Dijkstra)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcotinguiba&repo=algoritmo_huffman&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)](https://github.com/samuelcotinguiba/algoritmo_huffman)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcotinguiba&repo=ContratoSolidity&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)](https://github.com/samuelcotinguiba/ContratoSolidity)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcotinguiba&repo=problema-mochila-alg.guloso&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)](https://github.com/samuelcotinguiba/problema-mochila-alg.guloso)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcotinguiba&repo=algoritmo-genetico&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)](https://github.com/samuelcotinguiba/algoritmo-genetico)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcotinguiba&repo=BTC-Wallet&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)](https://github.com/samuelcotinguiba/BTC-Wallet)
 
 </div>
 
@@ -118,7 +129,7 @@ dev.say_hi()
 
 <br>
 
-## 📈 Estatísticas do Perfil
+##  Estatísticas do Perfil
 
 <div align="center">
   
