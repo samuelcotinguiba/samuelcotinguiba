@@ -39,29 +39,29 @@ dev.say_hi()
 <div align="center">
 
 ### 💻 Linguagens de Programação
-![Python](https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=2D1B69)
-![C++](https://img.shields.io/badge/C++-A855F7?style=for-the-badge&logo=c%2B%2B&logoColor=00599C&labelColor=2D1B69)
-![JavaScript](https://img.shields.io/badge/JavaScript-9333EA?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=2D1B69)
-![Solidity](https://img.shields.io/badge/Solidity-8B5CF6?style=for-the-badge&logo=solidity&logoColor=363636&labelColor=2D1B69)
+![Python](https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white&labelColor=2D1B69)
+![C++](https://img.shields.io/badge/C++-A855F7?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=2D1B69)
+![JavaScript](https://img.shields.io/badge/JavaScript-9333EA?style=for-the-badge&logo=javascript&logoColor=white&labelColor=2D1B69)
+![Solidity](https://img.shields.io/badge/Solidity-8B5CF6?style=for-the-badge&logo=solidity&logoColor=white&labelColor=2D1B69)
 
 ### 🎨 Front-End
-![HTML5](https://img.shields.io/badge/HTML5-8B5CF6?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=2D1B69)
-![CSS3](https://img.shields.io/badge/CSS3-A855F7?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=2D1B69)
+![HTML5](https://img.shields.io/badge/HTML5-8B5CF6?style=for-the-badge&logo=html5&logoColor=white&labelColor=2D1B69)
+![CSS3](https://img.shields.io/badge/CSS3-A855F7?style=for-the-badge&logo=css3&logoColor=white&labelColor=2D1B69)
 
 ### 🔧 Ferramentas & Outros
-![Git](https://img.shields.io/badge/Git-9333EA?style=for-the-badge&logo=git&logoColor=F05032&labelColor=2D1B69)
-![VS Code](https://img.shields.io/badge/VS_Code-8B5CF6?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=2D1B69)
+![Git](https://img.shields.io/badge/Git-9333EA?style=for-the-badge&logo=git&logoColor=white&labelColor=2D1B69)
+![VS Code](https://img.shields.io/badge/VS_Code-8B5CF6?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=2D1B69)
 ![GitHub](https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=2D1B69)
 
 ### 🧠 Blockchain & Smart Contracts
-![Solidity](https://img.shields.io/badge/Solidity-8B5CF6?style=for-the-badge&logo=solidity&logoColor=363636&labelColor=2D1B69)
-![Hardhat](https://img.shields.io/badge/Hardhat-A855F7?style=for-the-badge&logo=hardhat&logoColor=white&labelColor=2D1B69)
-![Ganache](https://img.shields.io/badge/Ganache-9333EA?style=for-the-badge&labelColor=2D1B69)
-![Web3.js](https://img.shields.io/badge/Web3.js-8B5CF6?style=for-the-badge&logo=web3.js&logoColor=F16822&labelColor=2D1B69)
-![Node.js](https://img.shields.io/badge/Node.js-A855F7?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=2D1B69)
-![OpenSea](https://img.shields.io/badge/OpenSea-9333EA?style=for-the-badge&logo=opensea&logoColor=2081E2&labelColor=2D1B69)
-![Uptick NFT](https://img.shields.io/badge/Uptick_NFT-8B5CF6?style=for-the-badge&labelColor=2D1B69)
-![NFT](https://img.shields.io/badge/NFT-A855F7?style=for-the-badge&labelColor=2D1B69)
+![Solidity](https://img.shields.io/badge/Solidity-8B5CF6?style=for-the-badge&logo=solidity&logoColor=white&labelColor=2D1B69)
+![Hardhat](https://img.shields.io/badge/Hardhat-A855F7?style=for-the-badge&logoColor=white&labelColor=2D1B69)
+![Ganache](https://img.shields.io/badge/Ganache-9333EA?style=for-the-badge&logoColor=white&labelColor=2D1B69)
+![Web3.js](https://img.shields.io/badge/Web3.js-8B5CF6?style=for-the-badge&logoColor=white&labelColor=2D1B69)
+![Node.js](https://img.shields.io/badge/Node.js-A855F7?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=2D1B69)
+![OpenSea](https://img.shields.io/badge/OpenSea-9333EA?style=for-the-badge&logo=opensea&logoColor=white&labelColor=2D1B69)
+![Uptick NFT](https://img.shields.io/badge/Uptick_NFT-8B5CF6?style=for-the-badge&logoColor=white&labelColor=2D1B69)
+![NFT](https://img.shields.io/badge/NFT-A855F7?style=for-the-badge&logoColor=white&labelColor=2D1B69)
 
 </div>
 
@@ -97,11 +97,11 @@ dev.say_hi()
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcotinguiba&repo=algoritmo_huffman&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)](https://github.com/samuelcotinguiba/algoritmo_huffman)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcotinguiba&repo=ContratoSolidity&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)](https://github.com/samuelcotinguiba/ContratoSolidity)
+[![ReadMe Card](https://github-readme-stats-hazel-nine-84.vercel.app/api/pin/?username=samuelcotinguiba&repo=algoritmo_huffman&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)](https://github.com/samuelcotinguiba/algoritmo_huffman)
+[![ReadMe Card](https://github-readme-stats-hazel-nine-84.vercel.app/api/pin/?username=samuelcotinguiba&repo=ContratoSolidity&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)](https://github.com/samuelcotinguiba/ContratoSolidity)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcotinguiba&repo=algoritmo-genetico&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)](https://github.com/samuelcotinguiba/algoritmo-genetico)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samuelcotinguiba&repo=BTC-Wallet&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)](https://github.com/samuelcotinguiba/BTC-Wallet)
+[![ReadMe Card](https://github-readme-stats-hazel-nine-84.vercel.app/api/pin/?username=samuelcotinguiba&repo=algoritmo-genetico&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)](https://github.com/samuelcotinguiba/algoritmo-genetico)
+[![ReadMe Card](https://github-readme-stats-hazel-nine-84.vercel.app/api/pin/?username=samuelcotinguiba&repo=BTC-Wallet&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)](https://github.com/samuelcotinguiba/BTC-Wallet)
 
 </div>
 
