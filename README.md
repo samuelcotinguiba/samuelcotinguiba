@@ -42,7 +42,8 @@ dev.say_hi()
 ![Python](https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white&labelColor=2D1B69)
 ![C++](https://img.shields.io/badge/C++-A855F7?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=2D1B69)
 ![JavaScript](https://img.shields.io/badge/JavaScript-9333EA?style=for-the-badge&logo=javascript&logoColor=white&labelColor=2D1B69)
-![Solidity](https://img.shields.io/badge/Solidity-8B5CF6?style=for-the-badge&logo=solidity&logoColor=white&labelColor=2D1B69)
+![Node.js](https://img.shields.io/badge/Node.js-8B5CF6?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=2D1B69)
+![Solidity](https://img.shields.io/badge/Solidity-A855F7?style=for-the-badge&logo=solidity&logoColor=white&labelColor=2D1B69)
 
 ### 🎨 Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-8B5CF6?style=for-the-badge&logo=html5&logoColor=white&labelColor=2D1B69)
@@ -56,12 +57,10 @@ dev.say_hi()
 ### 🧠 Blockchain & Smart Contracts
 ![Solidity](https://img.shields.io/badge/Solidity-8B5CF6?style=for-the-badge&logo=solidity&logoColor=white&labelColor=2D1B69)
 ![Hardhat](https://img.shields.io/badge/Hardhat-A855F7?style=for-the-badge&logoColor=white&labelColor=2D1B69)
-![Ganache](https://img.shields.io/badge/Ganache-9333EA?style=for-the-badge&logoColor=white&labelColor=2D1B69)
+![Truffle/Ganache](https://img.shields.io/badge/Truffle/Ganache-9333EA?style=for-the-badge&logoColor=white&labelColor=2D1B69)
 ![Web3.js](https://img.shields.io/badge/Web3.js-8B5CF6?style=for-the-badge&logoColor=white&labelColor=2D1B69)
-![Node.js](https://img.shields.io/badge/Node.js-A855F7?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=2D1B69)
-![OpenSea](https://img.shields.io/badge/OpenSea-9333EA?style=for-the-badge&logo=opensea&logoColor=white&labelColor=2D1B69)
-![Uptick NFT](https://img.shields.io/badge/Uptick_NFT-8B5CF6?style=for-the-badge&logoColor=white&labelColor=2D1B69)
-![NFT](https://img.shields.io/badge/NFT-A855F7?style=for-the-badge&logoColor=white&labelColor=2D1B69)
+![OpenSea](https://img.shields.io/badge/OpenSea-A855F7?style=for-the-badge&logo=opensea&logoColor=white&labelColor=2D1B69)
+![Uptick NFT](https://img.shields.io/badge/Uptick_NFT-9333EA?style=for-the-badge&logoColor=white&labelColor=2D1B69)
 
 </div>
 
